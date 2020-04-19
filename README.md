@@ -12,5 +12,3 @@ Trying to understand GitHub. Like to learn something new to me.
 [WD40EFRX	4 ТБ	SATA 6 Гбит с	5400 об мин	64 МБ](https://market.yandex.ru/product--zhestkii-disk-western-digital-wd-red-4-tb-wd40efrx/10498012?show-uid=15615024106443627247316001&nid=55316&glfilter=7893318%3A686784&context=search)
 
 [The Synology DX513 Expansion NAS Unboxing and Connection Guide with SPAN - YouTube](https://www.youtube.com/watch?v=V9fwVfj5Owg)
-
-[DX517 | Synology Inc.](https://www.synology.com/en-global/products/DX517)
